@@ -1,0 +1,272 @@
+:root { 
+  --black: #000000;
+  --ghost: #cecfd566;
+  --mirage: #1a1e264c;
+  --neon-carrot: #f59d31;
+  --neutral0: #ffffff;
+  --neutral100: #c8c9cb;
+  --neutral200: #9d9ea2;
+  --neutral300: #717378;
+  --neutral400: #46494f;
+  --neutral50: #f4f4f4;
+  --neutral500: #1a1e26;
+  --neutral900: #060709;
+  --otherorange: #f2bc1b;
+  --otherred: #eb2606;
+  --primary200: #9bdda2;
+  --primary50: #f3fbf4;
+  --primary500: #17af26;
+  --red-ribbon: #e80b26;
+  --secondary100: #c3d2cc;
+  --secondary300: #648a7c;
+  --secondary400: #346654;
+  --secondary50: #f2f6f4;
+  --secondary500: #05422c;
+  --secondary900: #01100b;
+  --white: #ffffff33;
+  --white-2: #ffffff14;
+  --white-3: #ffffffb2;
+  --white-4: #ffffff99;
+ 
+  --font-size-64px: 64px;
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 32px;
+ 
+  --font-family-lexend: "Lexend", Helvetica;
+}
+.regulartext-xl {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+}
+
+.regulartext-lg {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.regulartext-xs {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.regulartext-sm {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.displaydisplay-6 {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -1.5px;
+}
+
+.boldtext-sm {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.boldtext-lg {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.displaydisplay-2 {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-64px);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -4px;
+}
+
+.regulartext-base {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.boldtext-xs {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.boldtext-xl {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.5px;
+}
+
+.boldtext-base {
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.lexend-normal-mirage-12px {
+  color: var(--neutral500);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-normal-cod-gray-12px {
+  color: var(--neutral900);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-light-star-dust-14px {
+  color: var(--neutral200);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lexend-normal-sherwood-green-12px {
+  color: var(--secondary500);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-medium-white-12px {
+  color: var(--neutral0);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.lexend-light-star-dust-12px {
+  color: var(--neutral200);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lexend-light-ghost-12px {
+  color: var(--neutral100);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lexend-light-ghost-14px {
+  color: var(--neutral100);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lexend-light-sonic-silver-12px {
+  color: var(--neutral300);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lexend-normal-white-12px {
+  color: var(--neutral0);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-light-sonic-silver-14px {
+  color: var(--neutral300);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.lexend-normal-sonic-silver-12px {
+  color: var(--neutral300);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-normal-mako-12px {
+  color: var(--neutral400);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-normal-white-10px {
+  color: var(--neutral0);
+  font-family: var(--font-family-lexend);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-normal-white-12px-2 {
+  color: var(--white-3);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-normal-white-8px {
+  color: var(--neutral0);
+  font-family: var(--font-family-lexend);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexend-normal-star-dust-12px {
+  color: var(--neutral200);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}

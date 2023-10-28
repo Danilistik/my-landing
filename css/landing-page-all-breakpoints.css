@@ -1,0 +1,7318 @@
+/* screen - landing-page-all-breakpoints */
+
+.landing-page-all-breakpoints {
+  align-items: center;
+  background-color: var(--neutral0);
+  display: flex;
+  flex-direction: column;
+  height: 12156px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.landing-page-all-breakpoints .text-55 {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .logo-1 {
+  height: 40px;
+  object-fit: cover;
+  position: relative;
+  width: 167px;
+}
+
+.landing-page-all-breakpoints .search {
+  color: var(--neutral100);
+  flex: 1;
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .button-6 {
+  background-color: var(--primary500);
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+  width: 48px;
+}
+
+.landing-page-all-breakpoints .vuesaxlinears {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.landing-page-all-breakpoints .number-1 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: -0.50px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .flower {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .vuesaxlinear {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.landing-page-all-breakpoints .concentrates {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/mask-group.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 720px;
+  min-width: 1440px;
+  padding: 118px 64px;
+}
+
+.landing-page-all-breakpoints .flex-col {
+  flex-direction: column;
+  min-height: 483px;
+  width: 672px;
+}
+
+.landing-page-all-breakpoints .surname-1 {
+  color: var(--otherorange);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 4.00px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.landing-page-all-breakpoints .surname-2 {
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-top: 16px;
+  min-height: 140px;
+  width: 672px;
+}
+
+.landing-page-all-breakpoints .vitamins-supplements {
+  color: var(--neutral50);
+  font-weight: 400;
+  line-height: 36px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.landing-page-all-breakpoints .row-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 103px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-item {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .line-2-1 {
+  height: 16px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.landing-page-all-breakpoints .button-7 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 64px;
+  justify-content: center;
+  margin-top: 40px;
+  padding: 8px 56px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .shop-all {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 27px;
+}
+
+.landing-page-all-breakpoints .image-9_prev_ui-1 {
+  height: 172px;
+  margin-bottom: 6px;
+  margin-left: 46px;
+  object-fit: cover;
+  width: 172px;
+}
+
+.landing-page-all-breakpoints .image-8_prev_ui-1 {
+  align-self: flex-start;
+  height: 211px;
+  margin-left: 9px;
+  margin-top: 52px;
+  object-fit: cover;
+  width: 211px;
+}
+
+.landing-page-all-breakpoints .image-11_prev_ui-1 {
+  height: 147px;
+  margin-bottom: 66px;
+  margin-left: 27px;
+  object-fit: cover;
+  width: 147px;
+}
+
+.landing-page-all-breakpoints .row-3 {
+  align-items: flex-start;
+  background-color: var(--secondary50);
+  display: flex;
+  gap: 32px;
+  padding: 80px 64px;
+  position: relative;
+  width: 1440px;
+}
+
+.landing-page-all-breakpoints .row-item-1 {
+  flex: 1;
+  flex-grow: 1;
+  gap: 24px;
+}
+
+.landing-page-all-breakpoints .button {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  display: flex;
+  gap: 8px;
+  height: 100px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+  width: 100px;
+}
+
+.landing-page-all-breakpoints .vuesax {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-all-breakpoints .line-1 {
+  background-color: var(--secondary50);
+  border-radius: 100px;
+  height: 4px;
+  left: 30px;
+  position: absolute;
+  top: 84px;
+  width: 40px;
+}
+
+.landing-page-all-breakpoints .text {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .reliable-shipping {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .surname-3 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .vuesaxlinearsafe-home {
+  align-items: flex-end;
+  display: flex;
+  gap: 10549px;
+  justify-content: flex-end;
+  min-width: 56px;
+}
+
+.landing-page-all-breakpoints .overlap-group {
+  height: 50px;
+  margin-bottom: 1.58px;
+  position: relative;
+  width: 51px;
+}
+
+.landing-page-all-breakpoints .logo-2 {
+  height: 23px;
+  left: 13px;
+  position: absolute;
+  top: 12px;
+  width: 21px;
+}
+
+.landing-page-all-breakpoints .vector {
+  height: 25px;
+  left: 28px;
+  position: absolute;
+  top: 25px;
+  width: 22px;
+}
+
+.landing-page-all-breakpoints .vector-1 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.landing-page-all-breakpoints .vector-2 {
+  height: 56px;
+  margin-bottom: -11602px;
+  width: 56px;
+}
+
+.landing-page-all-breakpoints .youre-safe-with-us {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .our-secure-payment-s {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .surname-4 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .here-at-green-societ {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .surname-5 {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-top: 119px;
+  min-height: 140px;
+  text-align: center;
+  width: 948px;
+}
+
+.landing-page-all-breakpoints .header {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  margin-top: 65px;
+  position: relative;
+  width: 1200px;
+}
+
+.landing-page-all-breakpoints .button-8 {
+  background-color: var(--secondary50);
+  border: 1px solid;
+  border-color: var(--secondary500);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .surname {
+  color: var(--secondary500);
+  font-weight: 500;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .button-1 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .bundles-promotions {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .on-sale {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: inline-flex;
+  gap: 32px;
+  margin-right: -28px;
+  margin-top: 64px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .card-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary500);
+  border-radius: 16px;
+  justify-content: center;
+  overflow: hidden;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .vector-3 {
+  background: linear-gradient(180deg, rgba(52, 102, 84, 0) 0%, rgba(52, 102, 84, 0.4) 100%);
+  border-radius: 12px;
+  height: 371px;
+  left: 157px;
+  position: absolute;
+  top: -91px;
+  transform: rotate(5.00deg);
+  width: 262px;
+}
+
+.landing-page-all-breakpoints .image-13_prev_ui-1 {
+  height: 213px;
+  object-fit: cover;
+  position: relative;
+  width: 213px;
+}
+
+.landing-page-all-breakpoints .content {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .top {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .shop-our-best-sellers {
+  align-self: stretch;
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .lorem-ipsum-dolor-si {
+  color: var(--white-4);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+  width: 216px;
+}
+
+.landing-page-all-breakpoints .view-all {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .card {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 291px;
+}
+
+.landing-page-all-breakpoints .image {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--neutral50);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 240px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .passtern {
+  background-color: var(--secondary50);
+  border-radius: 184.5px/93px;
+  box-shadow: 0px 0px 20px #05422c1a;
+  height: 186px;
+  left: -38px;
+  opacity: 0.4;
+  position: absolute;
+  top: 131px;
+  width: 369px;
+}
+
+.landing-page-all-breakpoints .image-1 {
+  height: 164px;
+  object-fit: cover;
+  position: relative;
+  width: 164px;
+}
+
+.landing-page-all-breakpoints .top-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .address {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .label {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-56 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-2 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .reviews {
+  color: var(--neutral100);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .label-1 {
+  background-color: var(--secondary50);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 28px;
+  padding: 4px 10px 5px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .sativa-100 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .price-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price {
+  color: var(--otherred);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .label-2 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 32px;
+  padding: 4px 10px 5px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .button-2 {
+  align-self: stretch;
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .add-to-cart {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .label-6 {
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+  backdrop-filter: blur(8px) brightness(100%);
+  background-color: #05422c4c;
+  border-radius: 100px;
+  display: inline-flex;
+  height: 64px;
+  left: 70px;
+  padding: 4px 32px 5px;
+  position: absolute;
+  top: 88px;
+}
+
+.landing-page-all-breakpoints .out-of-stock {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .top-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .concentrates-1 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .mix-and-match-shatte {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-57 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .label-3 {
+  background-color: var(--otherorange);
+  border-radius: 4px 0px 4px 0px;
+  display: inline-flex;
+  height: 36px;
+  left: 0;
+  padding: 4px 16px 5px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-all-breakpoints .x60-ounce {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .top-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .address-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-58 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .left {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 411px;
+  position: absolute;
+  top: 186px;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .vuesax-1 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.landing-page-all-breakpoints .right {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 1164px;
+  position: absolute;
+  top: 186px;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .customer-testimonials {
+  align-self: flex-start;
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-left: 120px;
+  margin-top: 135px;
+}
+
+.landing-page-all-breakpoints .row-19 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: inline-flex;
+  gap: 32px;
+  margin-right: -292px;
+  margin-top: 65px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .box {
+  align-items: flex-start;
+  background-color: var(--secondary500);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px;
+  position: relative;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .voted-best-online-dispensary-in-canada {
+  align-self: stretch;
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .line-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .googlegoogle-logo-svg-150px {
+  height: 32px;
+  position: relative;
+  width: 101px;
+}
+
+.landing-page-all-breakpoints .review {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .exellencet {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-20 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .on {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .number-5 {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .reviews-1 {
+  color: var(--secondary300);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-item-2 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 16px;
+  flex-direction: column;
+  height: 424px;
+  justify-content: space-between;
+  padding: 40px;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .image-2 {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .vikki-starr {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .vuesaxlinearstar {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-all-breakpoints .absolutely-love-top-s {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .group-19 {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .name {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .surname-6 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .group-18 {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .name-1 {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .vuesaxlinearstar-1 {
+  width: 7px;
+}
+
+.landing-page-all-breakpoints .vuesaxlinearstar-2 {
+  margin-bottom: -9934.00px;
+  margin-right: -9724.00px;
+  width: 16px;
+}
+
+.landing-page-all-breakpoints .vuesaxlinearstar-3 {
+  margin-bottom: -9934.00px;
+  margin-right: -9744.00px;
+  width: 16px;
+}
+
+.landing-page-all-breakpoints .surname-7 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .left-1 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 411px;
+  position: absolute;
+  top: 194px;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .right-1 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 1164px;
+  position: absolute;
+  top: 194px;
+  width: 36px;
+}
+
+.landing-page-all-breakpoints .choose-your-weed {
+  align-self: flex-start;
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-left: 120px;
+  margin-top: 159px;
+  white-space: nowrap;
+}
+
+.landing-page-all-breakpoints .header-1 {
+  border-color: var(--neutral50);
+  gap: 458px;
+  margin-top: 65px;
+}
+
+.landing-page-all-breakpoints .row-22 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .filter-by-interest {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 36px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-23 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .button-3 {
+  background-color: var(--secondary50);
+  border: 1px solid;
+  border-color: var(--secondary500);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .button-4 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .mushrooms {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .concentrate {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .edibles {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .shop-all-weed {
+  color: var(--neutral500);
+  line-height: 24px;
+}
+
+.landing-page-all-breakpoints .landing-page-all-breakpoints-item {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 64px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .card-1 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  width: 276px;
+}
+
+.landing-page-all-breakpoints .passtern-1 {
+  background-color: var(--secondary50);
+  border-radius: 184.5px/93px;
+  box-shadow: 0px 0px 20px #05422c1a;
+  height: 186px;
+  left: -46px;
+  opacity: 0.4;
+  position: absolute;
+  top: 131px;
+  width: 369px;
+}
+
+.landing-page-all-breakpoints .label-4 {
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+  backdrop-filter: blur(8px) brightness(100%);
+  background-color: var(--mirage);
+  border-radius: 100px;
+  display: inline-flex;
+  height: 64px;
+  left: 62px;
+  padding: 4px 32px 5px;
+  position: absolute;
+  top: 88px;
+}
+
+.landing-page-all-breakpoints .top-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .row-24 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-59 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-26 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-27 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-28 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .flower-3 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .address-2 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-29 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-60 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .number-7 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-31 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-32 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-33 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .flower-4 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .address-3 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-34 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-61 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-35 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-36 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-37 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-38 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .flower-5 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .address-4 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-39 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-62 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-40 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-9 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-43 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  margin-top: 32px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .flower-6 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .address-5 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-44 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-67 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-45 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-10 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-46 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-47 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-48 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .flower-7 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .address-6 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-49 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-68 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-50 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-11 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-51 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-52 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .out-of-stock-2 {
+  color: var(--neutral0);
+}
+
+.landing-page-all-breakpoints .top-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .row-53 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-69 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-54 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-12 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-55 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-56 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-57 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-11 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .address-7 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-58 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-70 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-59 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-13 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-60 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-61 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-62 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .overlap-group2 {
+  height: 1761px;
+  margin-top: 120px;
+  position: relative;
+  width: 1440px;
+}
+
+.landing-page-all-breakpoints .background {
+  background-color: var(--secondary900);
+  height: 1595px;
+  left: 0;
+  position: absolute;
+  top: 166px;
+  width: 1440px;
+}
+
+.landing-page-all-breakpoints .how-to-order-weed-on {
+  color: var(--neutral0);
+  font-weight: 600;
+  left: 246px;
+  line-height: 70.4px;
+  position: absolute;
+  text-align: center;
+  top: 461px;
+  width: 948px;
+}
+
+.landing-page-all-breakpoints .ordering-weed-online {
+  color: var(--neutral200);
+  font-weight: 400;
+  left: 325px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 695px;
+  width: 790px;
+}
+
+.landing-page-all-breakpoints .description {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  left: 752px;
+  position: absolute;
+  top: 841px;
+  width: 548px;
+}
+
+.landing-page-all-breakpoints .fluentshopping-bag-tag-20-regular {
+  height: 144px;
+  position: relative;
+  width: 144px;
+}
+
+.landing-page-all-breakpoints .overlap-group-1 {
+  height: 122px;
+  left: 29px;
+  position: relative;
+  top: 14px;
+  width: 108px;
+}
+
+.landing-page-all-breakpoints .rectangle-2 {
+  background-color: var(--primary200);
+  border-radius: 8px;
+  height: 64px;
+  left: 2px;
+  position: absolute;
+  top: 32px;
+  width: 70px;
+}
+
+.landing-page-all-breakpoints .vector-4 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.landing-page-all-breakpoints .shop {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .decide-on-what-you-w {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .label-5 {
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+  backdrop-filter: blur(8px) brightness(100%);
+  background-color: var(--otherorange);
+  border-radius: 100px;
+  display: flex;
+  height: 40px;
+  left: 128px;
+  padding: 4px 32px 5px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.landing-page-all-breakpoints .number {
+  color: var(--secondary500);
+  font-weight: 500;
+  line-height: 24px;
+  margin-left: -16.50px;
+  margin-right: -16.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .description-1 {
+  left: 172px;
+  top: 1205px;
+}
+
+.landing-page-all-breakpoints .fluentwallet-credit-card-20-regular {
+  height: 144px;
+  position: relative;
+  width: 144px;
+}
+
+.landing-page-all-breakpoints .overlap-group-2 {
+  height: 115px;
+  left: 22px;
+  position: relative;
+  top: 7px;
+  width: 101px;
+}
+
+.landing-page-all-breakpoints .rectangle-2-1 {
+  border-radius: 8px;
+  height: 49px;
+  left: 26px;
+  top: 63px;
+  width: 70px;
+}
+
+.landing-page-all-breakpoints .vector-5 {
+  height: 115px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.landing-page-all-breakpoints .make-payment {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .pay-securely-our-si {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .description-2 {
+  left: 172px;
+  top: 841px;
+}
+
+.landing-page-all-breakpoints .healthiconshealth-worker-form-outline {
+  height: 144px;
+  position: relative;
+  width: 144px;
+}
+
+.landing-page-all-breakpoints .overlap-group-3 {
+  height: 120px;
+  left: 30px;
+  position: relative;
+  top: 12px;
+  width: 84px;
+}
+
+.landing-page-all-breakpoints .pattern {
+  background-color: var(--primary200);
+  border-radius: 8px;
+  height: 92px;
+  left: 24px;
+  position: absolute;
+  top: 26px;
+  width: 57px;
+}
+
+.landing-page-all-breakpoints .group {
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.landing-page-all-breakpoints .place {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .sign-up-for-an-accou {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .description-3 {
+  left: 752px;
+  top: 1205px;
+}
+
+.landing-page-all-breakpoints .phcircle-wavy-check-light {
+  height: 144px;
+  position: relative;
+  width: 144px;
+}
+
+.landing-page-all-breakpoints .overlap-group-4 {
+  height: 124px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 127px;
+}
+
+.landing-page-all-breakpoints .rectangle-2-2 {
+  border-radius: 100px;
+  height: 84px;
+  left: 43px;
+  top: 34px;
+  width: 84px;
+}
+
+.landing-page-all-breakpoints .vector-6 {
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 124px;
+}
+
+.landing-page-all-breakpoints .relax {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .your-product-will-be {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .number-14 {
+  color: var(--secondary500);
+  font-weight: 500;
+  line-height: 24px;
+  margin-left: -17.50px;
+  margin-right: -17.50px;
+}
+
+.landing-page-all-breakpoints .button-9 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 64px;
+  justify-content: center;
+  left: 590px;
+  padding: 8px 56px;
+  position: absolute;
+  top: 1585px;
+}
+
+.landing-page-all-breakpoints .choose-your-weed-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .mask-group {
+  height: 342px;
+  left: 120px;
+  position: absolute;
+  top: 0;
+  width: 1200px;
+}
+
+.landing-page-all-breakpoints .row-63 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 240px;
+  position: absolute;
+  top: 96px;
+  width: 960px;
+}
+
+.landing-page-all-breakpoints .text-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .refer-a-friends {
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 586px;
+}
+
+.landing-page-all-breakpoints .row-64 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .and-get {
+  color: var(--neutral0);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: -0.50px;
+  line-height: 48px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .text-71 {
+  color: var(--otherorange);
+  font-weight: 600;
+  line-height: 38.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .button-10 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 64px;
+  justify-content: center;
+  padding: 8px 56px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .refer-here {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .what-makes-us-the-1 {
+  align-self: flex-start;
+  color: transparent;
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-left: 120px;
+  margin-top: 119px;
+  min-height: 210px;
+  width: 789px;
+}
+
+.landing-page-all-breakpoints .span-1 {
+  color: var(--neutral500);
+}
+
+.landing-page-all-breakpoints .span1 {
+  color: var(--otherorange);
+}
+
+.landing-page-all-breakpoints .when-it-comes-to-wha {
+  align-self: flex-start;
+  line-height: 24px;
+  margin-left: 120px;
+  margin-top: 24px;
+  min-height: 72px;
+  width: 789px;
+}
+
+.landing-page-all-breakpoints .span1-1 {
+  text-decoration: underline;
+}
+
+.landing-page-all-breakpoints .flex-row {
+  gap: 32px;
+  height: 375px;
+  margin-left: 1.0px;
+  margin-top: 65px;
+  min-width: 1201px;
+}
+
+.landing-page-all-breakpoints .icon {
+  height: 80px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .customer-service {
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .whether-it-is-answer {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .security {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .when-it-comes-to-sec {
+  align-self: stretch;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .surname-8 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .we-are-continually-a {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .flex-row-1 {
+  margin-left: 1.0px;
+  margin-top: 40px;
+  min-width: 1201px;
+}
+
+.landing-page-all-breakpoints .flex-row-item {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--ghost);
+  border-radius: 12px;
+  flex-direction: column;
+  height: 394px;
+  padding: 32px;
+  position: relative;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .delivery-insurance {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .if-your-mail-order-m {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .highest-quality {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .all-of-our-cannabis {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .trust {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .with-over-15-years-i {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .recently-added {
+  align-self: flex-start;
+  color: var(--neutral900);
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-left: 120px;
+  margin-top: 119px;
+  white-space: nowrap;
+}
+
+.landing-page-all-breakpoints .header-2 {
+  border-color: var(--neutral50);
+  justify-content: space-between;
+  margin-top: 65px;
+}
+
+.landing-page-all-breakpoints .row-65 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-66 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .button-5 {
+  border: 1px solid;
+  border-color: var(--neutral50);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .mushrooms-1 {
+  color: var(--neutral500);
+  line-height: 24px;
+}
+
+.landing-page-all-breakpoints .concentrate-1 {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .edibles-1 {
+  color: var(--neutral500);
+  line-height: 24px;
+}
+
+.landing-page-all-breakpoints .shop-all-weed-1 {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .show-all {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .top-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .address-8 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-67 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-63 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-68 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-69 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-70 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-71 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .label-7 {
+  background-color: var(--primary500);
+  border-radius: 4px 0px 4px 0px;
+  display: inline-flex;
+  height: 36px;
+  left: 0;
+  padding: 4px 16px 5px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-all-breakpoints .top-13 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .address-9 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-72 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-64 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-73 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-74 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-75 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .out-of-stock-3 {
+  color: var(--neutral0);
+}
+
+.landing-page-all-breakpoints .top-14 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .concentrates-4 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .row-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .text-65 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-77 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-78 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-79 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-80 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-15 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .flower-11 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .address-10 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .text-66 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-82 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .number-18 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-83 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .price-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-84 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-85 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-86 {
+  align-items: flex-start;
+  border-color: var(--neutral300);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: inline-flex;
+  gap: 32px;
+  margin-left: 1.0px;
+  margin-top: 120px;
+  padding: 64px 0px 0px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-item-3 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 12px;
+  flex-direction: column;
+  gap: 32px;
+  padding: 32px;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .photo {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary50);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 240px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .logo {
+  height: 100px;
+  position: relative;
+  width: 90px;
+}
+
+.landing-page-all-breakpoints .frame-34 {
+  height: 34px;
+  left: 166px;
+  position: absolute;
+  top: 134px;
+  width: 34px;
+}
+
+.landing-page-all-breakpoints .indica {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .this-type-of-cannabi {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .shop-indica {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: underline;
+}
+
+.landing-page-all-breakpoints .frame-34-1 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 8px;
+  left: 166px;
+  padding: 8px;
+  position: absolute;
+  top: 134px;
+}
+
+.landing-page-all-breakpoints .sativa {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .contrary-to-the-deep {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .shop-sativa {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: underline;
+}
+
+.landing-page-all-breakpoints .image-3 {
+  background-image: url(../img/logo-1@2x.png);
+  background-size: 100% 100%;
+  height: 100px;
+  position: relative;
+  width: 90.0px;
+}
+
+.landing-page-all-breakpoints .logo-3 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.landing-page-all-breakpoints .hybrids {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .hybrid-strains-are-j {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .shop-hybrids {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: underline;
+}
+
+.landing-page-all-breakpoints .overlap-group3 {
+  align-items: center;
+  background-color: var(--neutral50);
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  margin-top: 120px;
+  min-height: 1135px;
+  padding: 120px 0;
+  width: 1440px;
+}
+
+.landing-page-all-breakpoints .header-3 {
+  border-color: var(--neutral100);
+  justify-content: space-between;
+}
+
+.landing-page-all-breakpoints .weed-education {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .show-all-1 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .row-87 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  position: relative;
+  width: 1200px;
+}
+
+.landing-page-all-breakpoints .card-2 {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.landing-page-all-breakpoints .image-1-1 {
+  align-self: stretch;
+  height: 240px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .top-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .date {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .address-11 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .buying-cannabis-onli {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .read-more {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .top-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .how-to-store-cannabi {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .cannabis-packaging-h {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .the-ultimate-guide-t {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .quality-cannabis-is {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .cta-footer {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(26, 30, 38) 0%, rgb(1, 16, 11) 100%);
+  display: inline-flex;
+  flex-direction: column;
+  gap: 120px;
+  padding: 380px 120px 64px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-19 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+}
+
+.landing-page-all-breakpoints .left-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .logo-4 {
+  height: 42px;
+  object-fit: cover;
+  position: relative;
+  width: 173px;
+}
+
+.landing-page-all-breakpoints .address-12 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 276px;
+}
+
+.landing-page-all-breakpoints .right-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .quick-link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-88 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 378px;
+}
+
+.landing-page-all-breakpoints .shop-all-1 {
+  color: var(--neutral200);
+  line-height: 21px;
+}
+
+.landing-page-all-breakpoints .flower-12 {
+  color: var(--neutral200);
+  font-weight: 400;
+}
+
+.landing-page-all-breakpoints .edibles-2 {
+  color: var(--neutral200);
+  line-height: 21px;
+}
+
+.landing-page-all-breakpoints .concentrates-5 {
+  color: var(--neutral200);
+  font-weight: 400;
+}
+
+.landing-page-all-breakpoints .list-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .mushrooms-2 {
+  color: var(--neutral200);
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .row-89 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .row-90 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .mastercard {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-all-breakpoints .overlap-group-5 {
+  height: 18px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .left-3 {
+  background-color: var(--red-ribbon);
+  border-radius: 9px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.landing-page-all-breakpoints .right-3 {
+  background-color: var(--neon-carrot);
+  border-radius: 9px;
+  height: 18px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.landing-page-all-breakpoints .out-of-stock-4 {
+  color: var(--neutral200);
+  margin-top: -1.00px;
+}
+
+.landing-page-all-breakpoints .title {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .unlock-20-off-your-first-order {
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 70.4px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 789px;
+}
+
+.landing-page-all-breakpoints .form-group {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-all-breakpoints .form {
+  align-items: center;
+  background-color: var(--secondary500);
+  border: 1px solid;
+  border-color: var(--secondary400);
+  border-radius: 100px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  padding: 24px 44px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .button-11 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 24px 44px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .box-5 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--ghost);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 32px;
+  position: relative;
+  width: 379px;
+}
+
+.landing-page-all-breakpoints .button-12 {
+  align-items: center;
+  border-radius: 100px;
+}
+
+.landing-page-all-breakpoints .card-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .concentrates-6 {
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .customer {
+  color: var(--neutral500);
+  white-space: nowrap;
+}
+
+.landing-page-all-breakpoints .date-4 {
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .description-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: absolute;
+  width: 548px;
+}
+
+.landing-page-all-breakpoints .edibles-3 {
+  font-weight: 400;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+}
+
+.landing-page-all-breakpoints .flower-13 {
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .gram-7 {
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .header-4 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  display: flex;
+  padding: 0px 0px 32px;
+  position: relative;
+  width: 1200px;
+}
+
+.landing-page-all-breakpoints .indica-70-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .label-8 {
+  align-items: center;
+  gap: 12px;
+  justify-content: center;
+}
+
+.landing-page-all-breakpoints .mix-and-match-shatte-4 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-all-breakpoints .mushrooms-3 {
+  font-weight: 400;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .number-19 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .out-of-stock-5 {
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .profile-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .rectangle-2-3 {
+  background-color: var(--primary200);
+  position: absolute;
+}
+
+.landing-page-all-breakpoints .row-item-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .sativa-100-7 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .shop-1 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .shop-all-2 {
+  font-weight: 400;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .star-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .top-20 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .vuesaxlinearstar-4 {
+  height: 16px;
+  position: relative;
+}
+
+.landing-page-all-breakpoints .when-it-comes-to {
+  color: var(--neutral300);
+  font-weight: 400;
+}
+
+.landing-page-all-breakpoints .x12lb-15 {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .x14lb-15 {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .x28g-15 {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-all-breakpoints .x60-ounce-4 {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+/* screen - landing-page-responsive */
+
+.landing-page-responsive {
+  align-items: center;
+  background-color: var(--neutral0);
+  display: flex;
+  flex-direction: column;
+  height: 16760px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.landing-page-responsive .text-72 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .navbar-2 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--neutral0);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--neutral50);
+  display: flex;
+  gap: 10px;
+  padding: 14px 24px;
+  position: relative;
+  width: 360px;
+}
+
+.landing-page-responsive .row-91 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinear-1 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.landing-page-responsive .logo-6 {
+  height: 28px;
+  object-fit: cover;
+  position: relative;
+  width: 119px;
+}
+
+.landing-page-responsive .row-92 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.landing-page-responsive .line-3 {
+  height: 12px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.landing-page-responsive .number-20 {
+  letter-spacing: 0;
+  line-height: 12px;
+  text-align: center;
+}
+
+.landing-page-responsive .button-17 {
+  background-color: var(--primary500);
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-responsive .vuesaxlinears-1 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .overlap-group2-1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-2.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 694px;
+  padding: 55px 24px;
+  width: 390px;
+}
+
+.landing-page-responsive .surname-10 {
+  color: var(--otherorange);
+  font-family: var(--font-family-lexend);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 4.00px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.landing-page-responsive .surname-11 {
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: 12px;
+  min-height: 76px;
+  width: 338px;
+}
+
+.landing-page-responsive .vitamins-supplements-1 {
+  color: var(--neutral50);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 16px;
+  white-space: nowrap;
+}
+
+.landing-page-responsive .row-93 {
+  align-items: center;
+  display: inline-flex;
+  gap: 24px;
+  margin-top: 41px;
+  position: relative;
+}
+
+.landing-page-responsive .row-item-4 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .line-2-2 {
+  height: 16px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.landing-page-responsive .button-18 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 56px;
+  justify-content: center;
+  margin-top: 24px;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.landing-page-responsive .shop-all-2 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.landing-page-responsive .image-8_prev_ui-1-1 {
+  align-self: center;
+  height: 108px;
+  margin-right: 16.0px;
+  margin-top: 32px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.landing-page-responsive ._prev_ui-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 142px;
+  height: 103px;
+  margin-left: 6px;
+  margin-top: 14px;
+  min-width: 305px;
+}
+
+.landing-page-responsive .image-9_prev_ui-1-1 {
+  align-self: flex-end;
+  height: 88px;
+  object-fit: cover;
+  width: 88px;
+}
+
+.landing-page-responsive .image-11_prev_ui-1-1 {
+  height: 75px;
+  object-fit: cover;
+  width: 75px;
+}
+
+.landing-page-responsive .row-94 {
+  align-items: flex-start;
+  background-color: var(--secondary50);
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 64px 24px;
+  position: relative;
+  width: 390px;
+}
+
+.landing-page-responsive .row-item-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .button-12 {
+  background-color: var(--neutral0);
+  display: flex;
+  gap: 8px;
+  height: 64px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+  width: 64px;
+}
+
+.landing-page-responsive .vuesaxboldtruck-fast {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-responsive .line-4 {
+  background-color: var(--secondary50);
+  border-radius: 100px;
+  height: 4px;
+  left: 12px;
+  position: absolute;
+  top: 84px;
+  width: 40px;
+}
+
+.landing-page-responsive .text-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .reliable-shipping-1 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .surname-12 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearsafe-home-1 {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-responsive .vuesaxlinearsafe-home-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 9504px;
+  justify-content: flex-end;
+  min-width: 36px;
+}
+
+.landing-page-responsive .overlap-group-6 {
+  height: 32px;
+  margin-bottom: 0.75px;
+  position: relative;
+  width: 33px;
+}
+
+.landing-page-responsive .logo-7 {
+  height: 15px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.landing-page-responsive .vector-7 {
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 16px;
+  width: 15px;
+}
+
+.landing-page-responsive .vector-8 {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.landing-page-responsive .vector-9 {
+  height: 36px;
+  margin-bottom: -11492px;
+  width: 36px;
+}
+
+.landing-page-responsive .youre-safe-with-us-1 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .our-secure-payment-s-1 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearcoin {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-responsive .surname-13 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .here-at-green-societ-1 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-responsive .surname-14 {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: 63px;
+  min-height: 114px;
+  text-align: center;
+  width: 342px;
+}
+
+.landing-page-responsive .header-5 {
+  align-self: flex-end;
+  display: inline-flex;
+  gap: 16px;
+  margin-right: -68px;
+  margin-top: 33px;
+}
+
+.landing-page-responsive .button-13 {
+  background-color: var(--secondary50);
+  border: 1px solid;
+  border-color: var(--secondary500);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 40px;
+  justify-content: center;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.landing-page-responsive .surname-9 {
+  color: var(--secondary500);
+  font-weight: 500;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .button-14 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 40px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.landing-page-responsive .bundles-promotions-1 {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .on-sale-1 {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .card-6 {
+  align-items: center;
+  background-color: var(--secondary500);
+  border-radius: 16px;
+  height: 395px;
+  justify-content: center;
+  margin-top: 40px;
+  overflow: hidden;
+  width: 342px;
+}
+
+.landing-page-responsive .vector-10 {
+  background: linear-gradient(180deg, rgba(52, 102, 84, 0) 0%, rgba(52, 102, 84, 0.4) 100%);
+  border-radius: 12px;
+  height: 371px;
+  left: 157px;
+  position: absolute;
+  top: -91px;
+  transform: rotate(5.00deg);
+  width: 262px;
+}
+
+.landing-page-responsive .image-13_prev_ui-1-1 {
+  height: 151px;
+  object-fit: cover;
+  position: relative;
+  width: 151px;
+}
+
+.landing-page-responsive .content-2 {
+  align-items: center;
+  gap: 20px;
+}
+
+.landing-page-responsive .top-20 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-responsive .shop-our-best-sellers-1 {
+  align-self: stretch;
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .lorem-ipsum-dolor-si-1 {
+  color: var(--white-4);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+  width: 216px;
+}
+
+.landing-page-responsive .view-all-1 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-95 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 24px;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  position: relative;
+}
+
+.landing-page-responsive .card-4 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  width: 291px;
+}
+
+.landing-page-responsive .image-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--neutral50);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 240px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .passtern-2 {
+  left: -38px;
+}
+
+.landing-page-responsive .image-1-2 {
+  height: 164px;
+  width: 164px;
+}
+
+.landing-page-responsive .flower-13 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-responsive .address-13 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .label-8 {
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .row-96 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearstar-6 {
+  height: 12px;
+  margin-bottom: -10018.50px;
+  margin-right: -9736.00px;
+  position: relative;
+  width: 12px;
+}
+
+.landing-page-responsive .text-73 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .line-6 {
+  height: 1px;
+  margin-bottom: -10007.50px;
+  margin-right: -9693.00px;
+  object-fit: cover;
+  position: relative;
+  width: 12px;
+}
+
+.landing-page-responsive .row-97 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .number-21 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .reviews-2 {
+  color: var(--neutral100);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.landing-page-responsive .row-98 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .label-9 {
+  background-color: var(--secondary50);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 28px;
+  padding: 4px 10px 5px;
+  position: relative;
+}
+
+.landing-page-responsive .price-19 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .price-14 {
+  color: var(--otherred);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-100 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .label-10 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 32px;
+  padding: 4px 10px 5px;
+  position: relative;
+}
+
+.landing-page-responsive .button-15 {
+  align-self: stretch;
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.landing-page-responsive .label-16 {
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+  backdrop-filter: blur(8px) brightness(100%);
+  background-color: #05422c4c;
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 12px;
+  height: 64px;
+  left: 70px;
+  padding: 4px 32px 5px;
+  position: absolute;
+  top: 88px;
+}
+
+.landing-page-responsive .out-of-stock-5 {
+  color: var(--neutral0);
+}
+
+.landing-page-responsive .concentrates-6 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-responsive .mix-and-match-shatte-4 {
+  line-height: 27px;
+}
+
+.landing-page-responsive .row-101 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearstar-7 {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.landing-page-responsive .text-74 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-102 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .number-22 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-103 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-20 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .price-15 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-105 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .label-17 {
+  background-color: var(--otherorange);
+  border-radius: 4px 0px 4px 0px;
+  display: inline-flex;
+  gap: 12px;
+  height: 36px;
+  left: 0;
+  padding: 4px 16px 5px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-responsive .flower-14 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-responsive .address-14 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-106 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearstar-8 {
+  height: 12px;
+  margin-bottom: -10018.50px;
+  margin-right: -9106.00px;
+  position: relative;
+  width: 12px;
+}
+
+.landing-page-responsive .text-75 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .line-7 {
+  height: 1px;
+  margin-bottom: -10007.50px;
+  margin-right: -9063.00px;
+  object-fit: cover;
+  position: relative;
+  width: 12px;
+}
+
+.landing-page-responsive .row-107 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .number-23 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-108 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-21 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .row-109 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .left-4 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 297px;
+  position: absolute;
+  top: 186px;
+  width: 36px;
+}
+
+.landing-page-responsive .vuesax-2 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.landing-page-responsive .right-4 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 587px;
+  position: absolute;
+  top: 186px;
+  width: 36px;
+}
+
+.landing-page-responsive .customer-testimonials-1 {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: 63px;
+  min-height: 76px;
+  width: 342px;
+}
+
+.landing-page-responsive .box-5 {
+  background-color: var(--secondary500);
+  border-radius: 16px;
+  gap: 32px;
+  padding: 24px;
+}
+
+.landing-page-responsive .voted-best-online-dispensary-in-canada-1 {
+  align-self: stretch;
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .line-5 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .googlegoogle-logo-svg-150px-1 {
+  height: 32px;
+  position: relative;
+  width: 101px;
+}
+
+.landing-page-responsive .review-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .exellencet-1 {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-110 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearstar-4 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.landing-page-responsive .row-111 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.landing-page-responsive .on-1 {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .number-24 {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .reviews-3 {
+  color: var(--secondary300);
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.landing-page-responsive .row-112 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: inline-flex;
+  gap: 24px;
+  margin-left: -287px;
+  margin-top: 32px;
+  position: relative;
+}
+
+.landing-page-responsive .row-item-6 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 424px;
+  justify-content: space-between;
+  padding: 24px;
+  position: relative;
+  width: 300px;
+}
+
+.landing-page-responsive .content-3 {
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.landing-page-responsive .group-19-1 {
+  height: 36px;
+  margin-bottom: -9234.00px;
+  margin-right: -9724.00px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-responsive .line-8 {
+  align-self: stretch;
+  height: 1px;
+  margin-bottom: -9123.00px;
+  margin-right: -9840.00px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .vuesaxlinearstar-9 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9760.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-10 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9780.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-11 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9800.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-12 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9820.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-13 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9840.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .surname-15 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .image-7 {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.landing-page-responsive .vikki-starr-1 {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .absolutely-love-top-s-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .group-18-1 {
+  height: 36px;
+  position: relative;
+  width: 5px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-14 {
+  height: 16px;
+  position: relative;
+  width: 5px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-15 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9132.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-16 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9152.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-17 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9172.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .vuesaxlinearstar-18 {
+  height: 16px;
+  margin-bottom: -9134.00px;
+  margin-right: -9192.00px;
+  position: relative;
+  width: 16px;
+}
+
+.landing-page-responsive .surname-16 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .left-5 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 311px;
+  position: absolute;
+  top: 194px;
+  width: 36px;
+}
+
+.landing-page-responsive .right-5 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  box-shadow: 0px 6px 16px #0000001f;
+  display: flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  left: 617px;
+  position: absolute;
+  top: 194px;
+  width: 36px;
+}
+
+.landing-page-responsive .choose-your-weed-2 {
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-right: 16.0px;
+  margin-top: 63px;
+  min-width: 326px;
+  white-space: nowrap;
+}
+
+.landing-page-responsive .header-4 {
+  align-self: flex-end;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--neutral50);
+  display: flex;
+  gap: 458px;
+  margin-top: 25px;
+  padding: 0px 0px 24px;
+  width: 366px;
+}
+
+.landing-page-responsive .row-113 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  margin-right: -261.00px;
+  position: relative;
+}
+
+.landing-page-responsive .filter-by-interest-1 {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-114 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .button-16 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 40px;
+  justify-content: center;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.landing-page-responsive .mushrooms-3 {
+  color: var(--neutral500);
+}
+
+.landing-page-responsive .edibles-3 {
+  color: var(--neutral500);
+}
+
+.landing-page-responsive .row-115 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 40px;
+  position: relative;
+}
+
+.landing-page-responsive .row-116 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .card-5 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  width: 159px;
+}
+
+.landing-page-responsive .image-5 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--neutral50);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 160px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .passtern-3 {
+  left: -104px;
+}
+
+.landing-page-responsive .image-6 {
+  height: 120px;
+  object-fit: cover;
+  position: relative;
+  width: 120px;
+}
+
+.landing-page-responsive .label-11 {
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+  backdrop-filter: blur(8px) brightness(100%);
+  background-color: var(--mirage);
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 12px;
+  height: 48px;
+  left: 12px;
+  padding: 4px 24px 5px;
+  position: absolute;
+  top: 48px;
+}
+
+.landing-page-responsive .out-of-stock-6 {
+  color: var(--neutral0);
+}
+
+.landing-page-responsive .concentrates-7 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-responsive .mix-and-match-shatte-5 {
+  line-height: 24px;
+}
+
+.landing-page-responsive .label-12 {
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .row-117 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .vuesaxlinearstar-5 {
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.landing-page-responsive .text-76 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .reviews-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-responsive .row-119 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .price-17 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .price-18 {
+  color: var(--otherred);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-121 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .label-13 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  height: 26px;
+  padding: 4px 8px 5px;
+  position: relative;
+}
+
+.landing-page-responsive .address-15 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-122 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-77 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-123 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .reviews-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-responsive .row-124 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-22 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .gram-8 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-126 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .row-127 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .top-26 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-responsive .address-16 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .text-78 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-129 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .reviews-6 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-responsive .row-130 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-23 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .gram-9 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-132 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .label-14 {
+  background-color: var(--otherorange);
+  border-radius: 4px 0px 4px 0px;
+  display: inline-flex;
+  gap: 12px;
+  height: 26px;
+  left: 0;
+  padding: 4px 8px 5px;
+  position: absolute;
+  top: 0;
+}
+
+.landing-page-responsive .x60-ounce-4 {
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}
+
+.landing-page-responsive .address-17 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .text-79 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-134 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .reviews-7 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-responsive .row-135 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-24 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .row-136 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .row-137 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .out-of-stock-7 {
+  color: var(--neutral0);
+}
+
+.landing-page-responsive .concentrates-8 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-responsive .mix-and-match-shatte-6 {
+  line-height: 24px;
+}
+
+.landing-page-responsive .row-138 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-80 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .reviews-8 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-responsive .row-140 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .row-142 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .address-18 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-143 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-81 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-144 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .row-145 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-25 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .row-146 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .gram-10 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-147 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .row-148 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .address-19 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-149 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-82 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-150 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .row-151 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-26 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .gram-11 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-153 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .x28g-24 {
+  margin-top: -1.50px;
+}
+
+.landing-page-responsive .x12lb-24 {
+  margin-top: -1.50px;
+}
+
+.landing-page-responsive .x14lb-24 {
+  margin-top: -1.50px;
+}
+
+.landing-page-responsive .address-20 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-154 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-83 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .reviews-11 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landing-page-responsive .row-156 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-27 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .row-157 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .overlap-group3-1 {
+  height: 1503px;
+  margin-top: 64px;
+  position: relative;
+  width: 390px;
+}
+
+.landing-page-responsive .text-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  left: 48px;
+  position: absolute;
+  top: 40px;
+}
+
+.landing-page-responsive .row-158 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .refer-a-friends-1 {
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 294px;
+}
+
+.landing-page-responsive .row-159 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .and-get-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .text-84 {
+  color: var(--otherorange);
+  font-weight: 500;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .button-19 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 56px;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.landing-page-responsive .overlap-group4 {
+  height: 1503px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.landing-page-responsive .how-to-order-weed-on-1 {
+  color: var(--neutral0);
+  font-weight: 600;
+  left: 24px;
+  line-height: 38.4px;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 342px;
+}
+
+.landing-page-responsive .ordering-weed-online-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  left: 24px;
+  line-height: 21px;
+  opacity: 0.42;
+  position: absolute;
+  text-align: center;
+  top: 499px;
+  width: 342px;
+}
+
+.landing-page-responsive .description-4 {
+  left: 207px;
+  top: 645px;
+}
+
+.landing-page-responsive .fluentshopping-bag-tag-20-regular-1 {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.landing-page-responsive .overlap-group-7 {
+  height: 54px;
+  left: 13px;
+  position: relative;
+  top: 6px;
+  width: 48px;
+}
+
+.landing-page-responsive .rectangle-2-3 {
+  border-radius: 8px;
+  height: 28px;
+  left: 1px;
+  top: 14px;
+  width: 31px;
+}
+
+.landing-page-responsive .vector-11 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.landing-page-responsive .shop-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .decide-on-what-you-w-1 {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .label-15 {
+  -webkit-backdrop-filter: blur(8px) brightness(100%);
+  backdrop-filter: blur(8px) brightness(100%);
+  background-color: var(--otherorange);
+  border-radius: 100px;
+  display: flex;
+  gap: 12px;
+  height: 28px;
+  left: 0;
+  padding: 4px 32px 5px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.landing-page-responsive .number-19 {
+  color: var(--secondary500);
+  font-weight: 500;
+  line-height: 21px;
+  margin-left: -22.00px;
+  margin-right: -22.00px;
+  margin-top: -2.00px;
+}
+
+.landing-page-responsive .description-5 {
+  left: 24px;
+  top: 645px;
+}
+
+.landing-page-responsive .healthiconshealth-worker-form-outline-1 {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.landing-page-responsive .overlap-group-8 {
+  height: 53px;
+  left: 13px;
+  position: relative;
+  top: 5px;
+  width: 37px;
+}
+
+.landing-page-responsive .pattern-1 {
+  background-color: var(--primary200);
+  border-radius: 8px;
+  height: 41px;
+  left: 11px;
+  position: absolute;
+  top: 12px;
+  width: 25px;
+}
+
+.landing-page-responsive .group-1 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.landing-page-responsive .place-2 {
+  line-height: 27px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .sign-up-for-an-accou-1 {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .description-6 {
+  left: 24px;
+  top: 989px;
+}
+
+.landing-page-responsive .fluentwallet-credit-card-20-regular-1 {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.landing-page-responsive .overlap-group-9 {
+  height: 51px;
+  left: 10px;
+  position: relative;
+  top: 3px;
+  width: 45px;
+}
+
+.landing-page-responsive .rectangle-2-4 {
+  border-radius: 8px;
+  height: 22px;
+  left: 12px;
+  top: 28px;
+  width: 31px;
+}
+
+.landing-page-responsive .vector-12 {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.landing-page-responsive .make-payment-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .pay-securely-our-si-1 {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .description-7 {
+  left: 207px;
+  top: 989px;
+}
+
+.landing-page-responsive .phcircle-wavy-check-light-1 {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.landing-page-responsive .overlap-group-10 {
+  height: 55px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 56px;
+}
+
+.landing-page-responsive .rectangle-2-5 {
+  border-radius: 100px;
+  height: 37px;
+  left: 19px;
+  top: 15px;
+  width: 37px;
+}
+
+.landing-page-responsive .vector-13 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.landing-page-responsive .relax-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 27px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .your-product-will-be-1 {
+  align-self: stretch;
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .number-33 {
+  color: var(--secondary500);
+  font-weight: 500;
+  line-height: 21px;
+  margin-left: -22.50px;
+  margin-right: -22.50px;
+  margin-top: -2.00px;
+}
+
+.landing-page-responsive .button-20 {
+  background-color: var(--primary500);
+  display: inline-flex;
+  gap: 8px;
+  height: 56px;
+  left: 112px;
+  padding: 0px 40px;
+  position: absolute;
+  top: 1383px;
+}
+
+.landing-page-responsive .background-1 {
+  background-color: var(--secondary900);
+  height: 1354px;
+  left: 0;
+  position: absolute;
+  top: 149px;
+  width: 390px;
+}
+
+.landing-page-responsive .mask-group-1 {
+  height: 268px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.landing-page-responsive .what-makes-us-the-1-1 {
+  color: transparent;
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: 63px;
+  min-height: 190px;
+  width: 342px;
+}
+
+.landing-page-responsive .span-3 {
+  color: var(--neutral500);
+}
+
+.landing-page-responsive .span1-2 {
+  color: var(--otherorange);
+}
+
+.landing-page-responsive .when-it-comes-to-wha-1 {
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: 16px;
+  min-height: 126px;
+  width: 342px;
+}
+
+.landing-page-responsive .box-6 {
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--ghost);
+  border-radius: 12px;
+  gap: 16px;
+  padding: 16px;
+}
+
+.landing-page-responsive .mdicustomer-service {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .customer-service-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .whether-it-is-answer-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .landing-page-responsive-item {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--ghost);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 24px;
+  padding: 16px;
+  position: relative;
+  width: 342px;
+}
+
+.landing-page-responsive .carbonsecurity {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .security-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .when-it-comes-to-sec-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .fluentvehicle-truck-bag-20-regular {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .delivery-insurance-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .if-your-mail-order-m-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .vaadindiamond-o {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .surname-17 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .we-are-continually-a-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .phhandshake-light {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .trust-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .with-over-15-years-i-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .circummedal {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .highest-quality-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .all-of-our-cannabis-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .recently-added-1 {
+  align-self: flex-start;
+  color: var(--neutral500);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-left: 24px;
+  margin-top: 63px;
+  white-space: nowrap;
+}
+
+.landing-page-responsive .row-160 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  margin-right: -261.00px;
+  position: relative;
+}
+
+.landing-page-responsive .row-161 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .mushrooms-4 {
+  color: var(--neutral500);
+}
+
+.landing-page-responsive .edibles-4 {
+  color: var(--neutral500);
+}
+
+.landing-page-responsive .row-162 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 32px;
+  position: relative;
+}
+
+.landing-page-responsive .row-163 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .out-of-stock-8 {
+  color: var(--neutral0);
+}
+
+.landing-page-responsive .concentrates-9 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.landing-page-responsive .mix-and-match-shatte-7 {
+  line-height: 24px;
+}
+
+.landing-page-responsive .row-164 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-85 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-166 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .row-168 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .top-33 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-responsive .address-21 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-169 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-86 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-171 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-28 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .row-172 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .gram-12 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-173 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .row-174 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .top-34 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-responsive .address-22 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-175 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-87 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-177 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-29 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .gram-13 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-179 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .top-35 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page-responsive .address-23 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .row-180 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .text-88 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-181 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.landing-page-responsive .row-182 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.landing-page-responsive .price-30 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.landing-page-responsive .row-183 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.landing-page-responsive .row-184 {
+  align-items: flex-start;
+  border-color: var(--neutral300);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 64px;
+  padding: 64px 0px 0px;
+  position: relative;
+  width: 342px;
+}
+
+.landing-page-responsive .row-item-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .photo-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary50);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 164px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .logo-5 {
+  height: 100px;
+  position: relative;
+  width: 90px;
+}
+
+.landing-page-responsive .frame-34-2 {
+  height: 34px;
+  width: 34px;
+}
+
+.landing-page-responsive .indica-1 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .this-type-of-cannabi-1 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-responsive .shop-indica-1 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .frame-34-3 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 8px;
+  padding: 8px;
+}
+
+.landing-page-responsive .sativa-1 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .contrary-to-the-deep-1 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-responsive .shop-sativa-1 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .image-8 {
+  background-image: url(../img/logo-1@2x.png);
+  background-size: 100% 100%;
+  height: 100px;
+  position: relative;
+  width: 90.0px;
+}
+
+.landing-page-responsive .logo-8 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.landing-page-responsive .hybrids-1 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .hybrid-strains-are-j-1 {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.landing-page-responsive .shop-hybrids-1 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .overlap-group1-1 {
+  align-items: center;
+  background-color: var(--neutral50);
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 64px;
+  min-height: 2145px;
+  padding: 64px 0;
+  width: 390px;
+}
+
+.landing-page-responsive .header-6 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--neutral100);
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 0px 24px;
+  width: 342px;
+}
+
+.landing-page-responsive .weed-education-1 {
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .show-all-2 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .row-185 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 342px;
+}
+
+.landing-page-responsive .card-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.landing-page-responsive .image-1-3 {
+  align-self: stretch;
+  height: 240px;
+  width: 100%;
+}
+
+.landing-page-responsive .top-36 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  width: 100%;
+}
+
+.landing-page-responsive .date-7 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .address-24 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.landing-page-responsive .cannabis {
+  align-self: stretch;
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .card-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.landing-page-responsive .top-37 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  width: 100%;
+}
+
+.landing-page-responsive .date-8 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .how-to-store-cannabi-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.landing-page-responsive .card-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.landing-page-responsive .top-38 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  width: 100%;
+}
+
+.landing-page-responsive .date-9 {
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .the-ultimate-guide-t-1 {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.landing-page-responsive .cta-footer-1 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(26, 30, 38) 0%, rgb(1, 16, 11) 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  padding: 240px 24px 64px;
+  position: relative;
+  width: 390px;
+}
+
+.landing-page-responsive .top-39 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+}
+
+.landing-page-responsive .left-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 342px;
+}
+
+.landing-page-responsive .logo-9 {
+  height: 42px;
+  object-fit: cover;
+  position: relative;
+  width: 173px;
+}
+
+.landing-page-responsive .address-25 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  width: 276px;
+}
+
+.landing-page-responsive .right-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 342px;
+}
+
+.landing-page-responsive .quick-link-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+}
+
+.landing-page-responsive .row-186 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .list-2 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.landing-page-responsive .shop-all-3 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.landing-page-responsive .flower-24 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.landing-page-responsive .edibles-5 {
+  color: var(--neutral200);
+}
+
+.landing-page-responsive .concentrates-10 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.landing-page-responsive .mushrooms-5 {
+  color: var(--neutral200);
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .place-3 {
+  align-self: stretch;
+  line-height: 30px;
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .row-187 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .list-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.landing-page-responsive .list-4 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.landing-page-responsive .row-188 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .overlap-group-11 {
+  height: 18px;
+  position: relative;
+}
+
+.landing-page-responsive .left-7 {
+  background-color: var(--red-ribbon);
+  border-radius: 9px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.landing-page-responsive .right-7 {
+  background-color: var(--neon-carrot);
+  border-radius: 9px;
+  height: 18px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.landing-page-responsive .out-of-stock-9 {
+  color: var(--neutral200);
+  margin-top: -1.00px;
+}
+
+.landing-page-responsive .title-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .unlock-20-off-your-first-order-1 {
+  align-self: stretch;
+  color: var(--neutral0);
+  font-weight: 600;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.landing-page-responsive .form-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary500);
+  border: 1px solid;
+  border-color: var(--secondary400);
+  border-radius: 100px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 16px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .button-21 {
+  align-self: stretch;
+  background-color: var(--primary500);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 16px 44px;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .add-to-cart {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .box {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 33px;
+  position: relative;
+  width: 342px;
+}
+
+.landing-page-responsive .button {
+  align-items: center;
+  border-radius: 100px;
+}
+
+.landing-page-responsive .card {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.landing-page-responsive .concentrate {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .concentrates {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .content {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.landing-page-responsive .date {
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .description {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: absolute;
+  width: 159px;
+}
+
+.landing-page-responsive .edibles {
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .flower {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .frame-34 {
+  left: 166px;
+  position: absolute;
+  top: 94px;
+}
+
+.landing-page-responsive .header {
+  align-items: center;
+  position: relative;
+}
+
+.landing-page-responsive .image-1 {
+  object-fit: cover;
+  position: relative;
+}
+
+.landing-page-responsive .label {
+  align-items: center;
+  justify-content: center;
+}
+
+.landing-page-responsive .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.landing-page-responsive .mastercard {
+  height: 32px;
+  position: relative;
+  width: 56px;
+}
+
+.landing-page-responsive .mix-and-match-shatte {
+  align-self: stretch;
+  color: var(--neutral500);
+  font-weight: 400;
+  position: relative;
+  text-align: center;
+}
+
+.landing-page-responsive .mushrooms {
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .name {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .number {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .out-of-stock {
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .passtern {
+  background-color: var(--secondary50);
+  border-radius: 184.5px/93px;
+  box-shadow: 0px 0px 20px #05422c1a;
+  height: 186px;
+  opacity: 0.4;
+  position: absolute;
+  top: 131px;
+  width: 369px;
+}
+
+.landing-page-responsive .place {
+  color: var(--neutral0);
+  font-weight: 500;
+  position: relative;
+}
+
+.landing-page-responsive .quick-link {
+  align-self: stretch;
+  position: relative;
+}
+
+.landing-page-responsive .rectangle-2 {
+  background-color: var(--primary200);
+  position: absolute;
+}
+
+.landing-page-responsive .refer-here {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .reviews {
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .sativa-100 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .search {
+  flex: 1;
+  position: relative;
+}
+
+.landing-page-responsive .shop-all {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .shop-all-weed {
+  color: var(--neutral500);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.landing-page-responsive .top {
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.landing-page-responsive .x60-ounce {
+  color: var(--neutral0);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+@media screen and (max-width: 1439px) {
+  .screen.landing-page-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.landing-page-responsive { 
+    display: none;
+   }
+}

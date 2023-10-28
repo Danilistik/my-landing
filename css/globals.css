@@ -1,0 +1,1713 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lexend:300,400,600,500");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6537f584d469a2eabb601445.6537f585d469a2eabb601448.U8EphB3.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.notification {
+  align-items: center;
+  background-color: var(--secondary500);
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.limited-offer-30-o {
+  color: var(--white-3);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navbar {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--neutral50);
+  display: flex;
+  justify-content: space-between;
+  padding: 14px 64px;
+  position: relative;
+  width: 1440px;
+}
+
+.row {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 270px;
+}
+
+.search-bar {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.seacrch {
+  align-items: center;
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 100px;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  padding: 4px 4px 4px 24px;
+  position: relative;
+  width: 400px;
+}
+
+.row-1 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  justify-content: flex-end;
+  position: relative;
+  width: 270px;
+}
+
+.your-account {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.line {
+  height: 12px;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.vuesaxlinearbag-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.frame-1 {
+  align-items: center;
+  background-color: var(--otherred);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 16px;
+  justify-content: center;
+  left: 260px;
+  position: absolute;
+  top: 9px;
+  width: 16px;
+}
+
+.navbar-1 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--neutral50);
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  padding: 16px 64px;
+  position: relative;
+  width: 1440px;
+}
+
+.navbar-link-shop-all {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.arrow {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 2px 0px 0px;
+  position: relative;
+}
+
+.promotions-bundles {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.support {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x28g {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x12lb {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x14lb {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flower-1 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.number-3 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.gram {
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flower-2 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-21 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.number-4 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.concentrates-2 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-25 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.indica-70 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.out-of-stock-1 {
+  color: var(--neutral0);
+}
+
+.concentrates-3 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-30 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.number-6 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  position: relative;
+}
+
+.quick-link-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 354.67px;
+}
+
+.track-your-order {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.refunds {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.promotions-bundles-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.support-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.reward {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.shipping-faq {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.contact-us-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 354.67px;
+}
+
+.infotopshelfbccc {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.more {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.place-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 354.67px;
+}
+
+.buy-weed-online-in-canada {
+  margin-top: -1.00px;
+}
+
+.buy-weed-online-in-new-brunswick {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-prince-edward-island {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-manitoba {
+  margin-top: -1.00px;
+}
+
+.buy-weed-online-in-british-columbia {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.group-16 {
+  height: 18px;
+  position: relative;
+  width: 30px;
+}
+
+.middle {
+  height: 13px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.visa {
+  height: 14px;
+  position: relative;
+  width: 37px;
+}
+
+.mastercard-1 {
+  height: 32px;
+  position: relative;
+  width: 56px;
+}
+
+.bottom {
+  align-items: center;
+  border-color: var(--neutral400);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 40px 0px 0px;
+  position: relative;
+  width: 1200px;
+}
+
+.x2022-top-shelf-bc {
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-33 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.privacy-policy {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.terms-conditions {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cta {
+  align-items: flex-start;
+  background-color: var(--secondary500);
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 120px;
+  padding: 64px;
+  position: absolute;
+  top: -208px;
+  width: 1200px;
+}
+
+.reveal-coupon-code-b {
+  color: var(--secondary100);
+  font-weight: 400;
+  line-height: 30px;
+  position: relative;
+  width: 789px;
+}
+
+.email-address {
+  color: var(--secondary300);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.reveal-coupon {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dropdown-menu-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.navbar-link {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.notification-1 {
+  align-items: center;
+  background-color: var(--secondary500);
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  padding: 8px 24px;
+  position: relative;
+  width: 390px;
+}
+
+.limited-offer-30-o-1 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  display: -webkit-box;
+  flex: 1;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.your-account-1 {
+  color: var(--neutral400);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1-1 {
+  align-items: center;
+  background-color: var(--otherred);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 14px;
+  justify-content: center;
+  left: 137px;
+  position: absolute;
+  top: 8px;
+  width: 14px;
+}
+
+.search-bar-1 {
+  align-items: flex-start;
+  background-color: var(--neutral0);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--neutral50);
+  display: flex;
+  gap: 8px;
+  padding: 12px 24px;
+  position: relative;
+  width: 390px;
+}
+
+.search-1 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border: 1px solid;
+  border-color: var(--neutral50);
+  border-radius: 100px;
+  display: flex;
+  flex-grow: 1;
+  gap: 8px;
+  height: 36px;
+  padding: 4px 20px;
+}
+
+.search-2 {
+  color: var(--neutral100);
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.row-41 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 28px;
+  position: relative;
+}
+
+.number-8 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.footer-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  position: relative;
+  width: 100%;
+}
+
+.quick-link-3 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+}
+
+.track-your-order-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.refunds-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.promotions-bundles-2 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.support-2 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.reward-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.shipping-faq-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact-us-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.contact-us-3 {
+  align-self: stretch;
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.infotopshelfbccc-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.more-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.buy-weed-online-in-canada-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-new-brunswick-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-prince-edward-island-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-n-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-saskatchewan-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-manitoba-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-quitebec-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-british-columbia-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-ontario-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buy-weed-online-in-alberta-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mastercard-2 {
+  align-items: center;
+  background-color: var(--neutral0);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+}
+
+.group-16-1 {
+  height: 18px;
+  position: relative;
+  width: 30px;
+}
+
+.middle-1 {
+  height: 13px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.visa-1 {
+  height: 14px;
+  position: relative;
+  width: 37px;
+}
+
+.bottom-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--neutral400);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  padding: 40px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-33-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  margin-right: -4.00px;
+  position: relative;
+}
+
+.privacy-policy-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.terms-conditions-1 {
+  color: var(--neutral200);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x2022-top-shelf-bc-1 {
+  color: var(--neutral300);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cta-1 {
+  align-items: flex-start;
+  background-color: var(--secondary500);
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 24px;
+  padding: 24px;
+  position: absolute;
+  top: -176px;
+  width: 342px;
+}
+
+.reveal-coupon-code-b-1 {
+  align-self: stretch;
+  color: var(--secondary100);
+  font-weight: 400;
+  line-height: 21px;
+  position: relative;
+}
+
+.form-group-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.email-address-1 {
+  color: var(--secondary300);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.reveal-coupon-1 {
+  color: var(--neutral0);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flower-8 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.flower-9 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.number-15 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.flower-10 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-81 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.number-16 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.number-17 {
+  color: var(--neutral900);
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.row-99 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.row-104 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-25 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.number-26 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.flower-15 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.number-27 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.row-118 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-18 {
+  margin-top: -1.50px;
+}
+
+.x12lb-18 {
+  margin-top: -1.50px;
+}
+
+.x14lb-18 {
+  margin-top: -1.50px;
+}
+
+.top-21 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-16 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-120 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-28 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.x28g-19 {
+  margin-top: -1.50px;
+}
+
+.x12lb-19 {
+  margin-top: -1.50px;
+}
+
+.x14lb-19 {
+  margin-top: -1.50px;
+}
+
+.top-22 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.row-125 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-29 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.row-128 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-20 {
+  margin-top: -1.50px;
+}
+
+.x12lb-20 {
+  margin-top: -1.50px;
+}
+
+.x14lb-20 {
+  margin-top: -1.50px;
+}
+
+.top-23 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-17 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-131 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-30 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.row-133 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-21 {
+  margin-top: -1.50px;
+}
+
+.x12lb-21 {
+  margin-top: -1.50px;
+}
+
+.x14lb-21 {
+  margin-top: -1.50px;
+}
+
+.top-24 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-18 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.number-31 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.reviews-9 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.row-139 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-22 {
+  margin-top: -1.50px;
+}
+
+.x12lb-22 {
+  margin-top: -1.50px;
+}
+
+.x14lb-22 {
+  margin-top: -1.50px;
+}
+
+.top-25 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-19 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-141 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-32 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.reviews-10 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.x28g-23 {
+  margin-top: -1.50px;
+}
+
+.x12lb-23 {
+  margin-top: -1.50px;
+}
+
+.x14lb-23 {
+  margin-top: -1.50px;
+}
+
+.top-27 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-20 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-152 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-34 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.reviews-12 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.row-155 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-25 {
+  margin-top: -1.50px;
+}
+
+.x12lb-25 {
+  margin-top: -1.50px;
+}
+
+.x14lb-25 {
+  margin-top: -1.50px;
+}
+
+.top-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-21 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.number-35 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.reviews-13 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.x28g-26 {
+  margin-top: -1.50px;
+}
+
+.x12lb-26 {
+  margin-top: -1.50px;
+}
+
+.x14lb-26 {
+  margin-top: -1.50px;
+}
+
+.top-29 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.number-36 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.reviews-14 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.row-165 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-27 {
+  margin-top: -1.50px;
+}
+
+.x12lb-27 {
+  margin-top: -1.50px;
+}
+
+.x14lb-27 {
+  margin-top: -1.50px;
+}
+
+.top-30 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-22 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-167 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.number-37 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+}
+
+.reviews-15 {
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.row-170 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-28 {
+  margin-top: -1.50px;
+}
+
+.x12lb-28 {
+  margin-top: -1.50px;
+}
+
+.x14lb-28 {
+  margin-top: -1.50px;
+}
+
+.top-31 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.flower-23 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.row-176 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.x28g-29 {
+  margin-top: -1.50px;
+}
+
+.x12lb-29 {
+  margin-top: -1.50px;
+}
+
+.x14lb-29 {
+  margin-top: -1.50px;
+}
+
+.top-32 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.row-178 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.star {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.profile {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.testimony {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.read-more-3 {
+  color: var(--primary500);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
